@@ -1,0 +1,17 @@
+.mainBox {
+  border: 1px solid #f3c9c9;
+  background-color: #f9dff6;
+  color: red;
+  width: 30%;
+  height: 50%;
+  margin: auto;
+  font-size: 24px;
+  border-radius: 4px;
+  padding: 0px 12px;
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  margin: 8px;
+}
